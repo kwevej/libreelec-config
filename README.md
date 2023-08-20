@@ -1,8 +1,8 @@
 # libreelec config
 
 boot: config.txt
-	* to enable IR remote
+  * to enable IR remote
 
 /storage/.config
-	* IR mapping
+  * IR mapping
 
